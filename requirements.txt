@@ -1,0 +1,6 @@
+python-dotenv
+pyTelegramBotAPI
+requests
+google-generativeai
+pillow
+PyMuPDF
