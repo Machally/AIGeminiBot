@@ -167,5 +167,5 @@ def handle_voice(message):
               
     os.remove(f'./{file_name}')
     
-# Inicia o bot
+# Inicia o bot..
 bot.polling()
